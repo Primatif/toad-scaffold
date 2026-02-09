@@ -6,6 +6,7 @@ license = "MIT"
 
 [dependencies]
 anyhow = "1.0.100"
+toad-core = { version = "1.0.2", path = "../toad-core" }
 toad-git = { version = "1.0.2", path = "../toad-git" }
 
 [dev-dependencies]
