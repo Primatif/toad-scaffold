@@ -1,13 +1,13 @@
 [package]
 name = "toad-scaffold"
-version = "1.0.2"
+version = "1.1.0"
 edition = "2024"
 license = "MIT"
 
 [dependencies]
 anyhow = "1.0.100"
-toad-core = { version = "1.0.2", path = "../toad-core" }
-toad-git = { version = "1.0.2", path = "../toad-git" }
+toad-core = { version = "1.1.0", path = "../toad-core" }
+toad-git = { version = "1.1.0", path = "../toad-git" }
 
 [dev-dependencies]
 tempfile = "3.24.0"
